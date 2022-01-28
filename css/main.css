@@ -136,6 +136,7 @@ body {
   padding-top: 15px;
   padding-bottom: 15px;
   z-index: 1000;
+  background-color: #000;
 }
 
 .nav a {
@@ -1032,6 +1033,14 @@ body {
     opacity: 1;
     position: static;
   }
+  
+  .content-title {
+    font-size: 15px;
+  }
+
+  .content-subtitle {
+    font-size: 14px;
+  }
 }
 
 .hidden {
@@ -1042,12 +1051,3 @@ body {
   opacity: 1;
 }
 
-@media (max-width: 768px) {
-  .content-title {
-    font-size: 15px;
-  }
-
-  .content-subtitle {
-    font-size: 14px;
-  }
-}
