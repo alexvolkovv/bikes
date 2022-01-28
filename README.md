@@ -1,2 +1,2 @@
 # bikes
-Landing page/ adaptive layout
+Landing page - https://alexvolkovv.github.io/bikes/
